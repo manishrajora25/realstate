@@ -1,0 +1,202 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.testimg{
+    width: 100%;
+    height: 100vh !important;
+}
+.testimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.nav-item{
+    font-size: 20px;
+    padding: 0 20px;
+}
+.nav_navbar{
+    background-color: red ;
+}
+.web{
+    padding: 3px 15px;
+    border-radius: 10px;
+    background-color: darkred;
+}
+.navbar-brand{
+    width: 80px;
+    height: 80px;
+}
+.navbar-brand img{
+width: 100%;
+height:100%;
+}
+
+.about{
+    text-align: center;
+    margin-top: 10px;
+   
+}
+.forAbout{
+    /* width: 100%; */
+    /* height: 450px; */
+    padding: 20px;
+    background-color: lightgray;
+}
+.Gallery{
+    text-align: center;
+    margin-top: 10px
+    
+}
+.para p{
+   
+
+}
+.gateimge{
+    /* width: 320px; */
+    height: 200px;
+}
+
+.gateimge img{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.testimg{
+    /* width: 354px; */
+    height: 450px;
+}
+.testimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+/* .myimg{
+    margin-left: 120px
+} */
+.myimg{
+    /* width: 430px; */
+    height: 240px;
+} 
+.myimg img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.vilaahome{
+    /* background-color:rgb(211, 58, 71); */
+    background-color: lightblue;
+    /* width: 100%; */
+    /* height: 850px; */
+    padding: 30px;
+}
+
+.faicility{
+    text-align: center;
+    margin-top: 50px;
+}
+.mreacilities{
+    /* height: 1100px; */
+    padding: 20px;
+    background-color: lightpink;
+}
+.meeimg{
+    height: 250px;
+    /* width: 350px; */
+}
+.meeimg img{
+    width: 100%;
+    height: 100%;
+}
+.thismap
+{
+    margin: auto
+}
+
+.formContact {
+    background-color: #f0f0f0;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(5, 5, 5, 0.1);
+    max-width: 350px;
+
+    margin:25px;
+   /* margin-left: 150px; */
+}
+.conc1 input{
+    padding: 2px 10px;
+    border-radius: 10px;
+}
+
+.footer ul li{
+list-style: none;
+}
+.footer a{
+    text-decoration: none;
+    color: black;
+    color: rgba(255, 255, 255, 0.699);
+}
+.footer a:hover{
+color: blue;
+}
+.footer h5{
+    margin: 35px 0px 15px 30px; 
+    color: rgba(255, 255, 255, 0.699);
+}
+.totalimg{
+    width: 200px;
+    height: 130px;
+}
+.totalimg img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.footname span{
+    margin: 5px ;
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.699);
+}
+.facebook:hover{
+    color: blue;
+}
+.twitter:hover{
+    color: blueviolet;
+}
+.instagram:hover{
+    color:rgb(255, 0, 119);
+}
+
+.whatsapp:hover{
+    color: green;
+}
+.footname h5{
+color:rgba(255, 255, 255, 0.699) ;
+}
+.footmain{
+    /* width: 100%; */
+    /* height: 300px; */
+    padding: 10px;
+    background-color: rgb(10, 10, 41);
+}
+
+.theline hr{
+    width: 100%;
+    padding: 1px;
+    color: white;
+}
+
+
+.science{
+    width: 120px;
+    height: 120px;
+
+}
+.science img{
+    width: 100%;
+    height: 100%;
+}
